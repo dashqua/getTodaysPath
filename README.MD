@@ -5,7 +5,7 @@ It actually is a part of a larger project which aims to to monitor the weekly pa
 
 ### Prerequisites
 
-This script has been made following the Python 3 standards rules and checked with PyChecker.
+This script has been made following the Python 3 standard rules and checked with PyChecker.
 In order to work properly it requires some libraries that can ban installed with pip3.
 Libraries calls are listed below:
 ```
@@ -50,7 +50,7 @@ Coming soon
 
 ## Authors
 
-* **Thomas Di Giusto** - *Initial work* 
+* **Thomas Di Giusto** - *Initial work* , Lille, France
 * **See Links in code** - *Inspiration*
 
 
